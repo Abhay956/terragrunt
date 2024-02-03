@@ -3,6 +3,11 @@ variable "ami_id" {
   type = string
 }
 
+# Region
+variable "region" {
+  type = string
+}
+
 # Instance Type
 variable "instance_type" {
   type = string
