@@ -6,7 +6,7 @@
 Terragrunt is an open-source tool developed by Gruntwork that serves as a thin wrapper on top of Terraform. Its primary goal is to reduce repetition in your Terraform code and simplify its structure, making it easier to manage and maintain. Terragrunt is based on the DRY (Do Not Repeat Yourself) concept, which involves reducing redundancy by using multiple Terraform modules and managing remote states.
 
  
-### Terragrunt with Enables Multi-Region Multi-Environment AWS Deployments: Dev in ap-south-1, Test in us-east-1, and Stage in us-west-1 
+### Terragrunt with Enables Multi-Region Multi-Environment AWS Instance Deployments: Dev in ap-south-1, Test in us-east-1, and Stage in us-west-1 
 
 
 ## Prerequisites
