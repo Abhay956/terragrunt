@@ -7,5 +7,6 @@ inputs = {
   availability_zone = "ap-south-1a"
   instance_type = "t2.micro"
   tags =  "my_ec2_instance_dev"
+  region  = "us-west-1"
 }
 
