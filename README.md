@@ -41,7 +41,7 @@ To provision the infrastructure, run:
 ```bash
 terragrunt run-all plan
 ```
-The terraform plan command shows what infrastructure will be created/updated/destroyed. Review the plan output to ensure it is making the expected changes.
+The terragrunt plan command shows what infrastructure will be created/updated/destroyed. Review the plan output to ensure it is making the expected changes.
 
 To then apply the changes:
 ```bash
